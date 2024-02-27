@@ -1,0 +1,46 @@
+*{ background-color: antiquewhite; }
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: darkmagenta;
+}
+
+h2,h3{ font-size: 30px; }
+
+.a{ text-indent: 50px; }
+.b{ text-indent: 3em; }
+.c{ text-indent: 20%; }
+.d{ text-indent: -50px; }
+
+.a2{ text-align: center; }
+.b2{ text-align: right; }
+.c2{ text-align: left; }
+.d2{ text-align: justify; }
+
+.a3{ text-decoration: underline; }
+.b3{ text-decoration: overline; }
+.c3{ text-decoration: line-through; }
+.d3{ text-decoration: underline line-through; }
+
+.a4{ letter-spacing: 3px; }
+.b4{ letter-spacing: 10px; }
+.c4{ letter-spacing: 15px; }
+
+.a5{ word-spacing: 5px; }
+.b5{ word-spacing: 20px; }
+.c5{ word-spacing: 50px; }
+
+.a6{ text-transform: capitalize; }
+.b6{ text-transform: uppercase; }
+.c6{ text-transform: lowercase; }
+
+.a7{ line-height: 50px; }
+.b7{ line-height: 3em; }
+.c7{ line-height: 20%; }
+
+td{ height: 100px; border: 1px solid grey; }
+
+.a8{ vertical-align: top; }
+.b8{ vertical-align: middle; }
+.c8{ vertical-align: bottom; }
